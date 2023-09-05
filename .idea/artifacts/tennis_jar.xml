@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tennis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tennis_jar</output-path>
+    <root id="archive" name="tennis.jar">
+      <element id="module-output" name="tennis" />
+    </root>
+  </artifact>
+</component>
